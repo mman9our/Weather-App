@@ -19,6 +19,4 @@ expo start
 | Android Studio | 4.3.0.1 |
 | openweathermap api |  -- |
 
-https://user-images.githubusercontent.com/72463762/158037367-2aef2ae4-1910-4434-9416-b086c3b1fcea.mp4
-
 
