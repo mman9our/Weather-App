@@ -19,9 +19,7 @@ expo start
 | Android Studio | 4.3.0.1 |
 | openweathermap api |  -- |
 
-## Usage:
-1. Open Sentiment_flask folder and run sentiment_flask.py.
-2. Run Flutter App
+
 
 
 
